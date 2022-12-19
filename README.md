@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bowseruk.
+- 👋 Hi, I’m Adam Bolsover.
 - 👀 I’m interested in Clustering, Raspberry Pi Projects, Food Safety Compliance, Learning, AI and home infrastructure (Unifi, K3s, Plex, Unraid, etc).
 - 🌱 I’m currently in a Front End Bootcamp.
 - 💞️ I’m looking to collaborate on anything interesting.
@@ -11,6 +11,6 @@ bowseruk/bowseruk is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowseruk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Adam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowseruk&layout=compact&theme=radical)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowseruk)](https://github.com/anuraghazra/github-readme-stats)
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowseruk&theme=radical)]
