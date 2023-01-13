@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Adam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bowseruk&layout=compact&theme=radical)
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowseruk&theme=radical)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=bowseruk&show_icons=true&theme=radical)
